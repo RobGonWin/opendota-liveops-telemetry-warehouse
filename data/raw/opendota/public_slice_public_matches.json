@@ -1,0 +1,602 @@
+[
+  {
+    "match_id": 8769331997,
+    "start_time": 1776027022,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769330345,
+    "start_time": 1776026911,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769328983,
+    "start_time": 1776026817,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769325413,
+    "start_time": 1776026591,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769325372,
+    "start_time": 1776026586,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769323863,
+    "start_time": 1776026497,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769322196,
+    "start_time": 1776026397,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769320621,
+    "start_time": 1776026297,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769320296,
+    "start_time": 1776026282,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769319481,
+    "start_time": 1776026222,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769318550,
+    "start_time": 1776026172,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769317236,
+    "start_time": 1776026081,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769316987,
+    "start_time": 1776026077,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769316841,
+    "start_time": 1776026062,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769315835,
+    "start_time": 1776026002,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769315627,
+    "start_time": 1776025987,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769315419,
+    "start_time": 1776025972,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769315239,
+    "start_time": 1776025962,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769315226,
+    "start_time": 1776025961,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769314785,
+    "start_time": 1776025937,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769314471,
+    "start_time": 1776025916,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769314308,
+    "start_time": 1776025891,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769314132,
+    "start_time": 1776025871,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769314031,
+    "start_time": 1776025886,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769313806,
+    "start_time": 1776025871,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769313793,
+    "start_time": 1776025872,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769313781,
+    "start_time": 1776025876,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769313770,
+    "start_time": 1776025877,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769313718,
+    "start_time": 1776025872,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769313366,
+    "start_time": 1776025846,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769313290,
+    "start_time": 1776025847,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769313273,
+    "start_time": 1776025847,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769313256,
+    "start_time": 1776025847,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769312996,
+    "start_time": 1776025827,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769312882,
+    "start_time": 1776025821,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769312855,
+    "start_time": 1776025817,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769312616,
+    "start_time": 1776025806,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769312526,
+    "start_time": 1776025802,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769312492,
+    "start_time": 1776025802,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769312371,
+    "start_time": 1776025791,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769312334,
+    "start_time": 1776025791,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769312309,
+    "start_time": 1776025786,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769312268,
+    "start_time": 1776025787,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769312201,
+    "start_time": 1776025782,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769312171,
+    "start_time": 1776025776,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769312113,
+    "start_time": 1776025772,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769312101,
+    "start_time": 1776025751,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769312015,
+    "start_time": 1776025772,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769312007,
+    "start_time": 1776025756,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311957,
+    "start_time": 1776025747,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311914,
+    "start_time": 1776025766,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311901,
+    "start_time": 1776025767,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311878,
+    "start_time": 1776025757,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311850,
+    "start_time": 1776025767,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311722,
+    "start_time": 1776025751,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311652,
+    "start_time": 1776025752,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311649,
+    "start_time": 1776025751,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311560,
+    "start_time": 1776025747,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311473,
+    "start_time": 1776025737,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311436,
+    "start_time": 1776025737,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311312,
+    "start_time": 1776025737,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311299,
+    "start_time": 1776025731,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311257,
+    "start_time": 1776025726,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311234,
+    "start_time": 1776025726,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311201,
+    "start_time": 1776025727,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311125,
+    "start_time": 1776025716,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769311112,
+    "start_time": 1776025721,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310963,
+    "start_time": 1776025706,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310910,
+    "start_time": 1776025711,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310876,
+    "start_time": 1776025701,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310872,
+    "start_time": 1776025687,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310846,
+    "start_time": 1776025702,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310843,
+    "start_time": 1776025697,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310834,
+    "start_time": 1776025706,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310821,
+    "start_time": 1776025702,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310809,
+    "start_time": 1776025691,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310800,
+    "start_time": 1776025701,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310797,
+    "start_time": 1776025701,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310792,
+    "start_time": 1776025692,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310777,
+    "start_time": 1776025702,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310691,
+    "start_time": 1776025697,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310685,
+    "start_time": 1776025697,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310665,
+    "start_time": 1776025691,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310639,
+    "start_time": 1776025686,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310563,
+    "start_time": 1776025692,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310558,
+    "start_time": 1776025686,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310551,
+    "start_time": 1776025677,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310543,
+    "start_time": 1776025687,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310521,
+    "start_time": 1776025687,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310519,
+    "start_time": 1776025686,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310449,
+    "start_time": 1776025682,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310407,
+    "start_time": 1776025672,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310362,
+    "start_time": 1776025677,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310322,
+    "start_time": 1776025661,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310313,
+    "start_time": 1776025672,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310306,
+    "start_time": 1776025671,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310289,
+    "start_time": 1776025662,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310274,
+    "start_time": 1776025671,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310226,
+    "start_time": 1776025667,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  },
+  {
+    "match_id": 8769310157,
+    "start_time": 1776025661,
+    "source_stream": "public_matches",
+    "recency_window": "2025_2026"
+  }
+]

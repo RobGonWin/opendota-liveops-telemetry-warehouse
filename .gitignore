@@ -1,0 +1,35 @@
+# Python / Environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+build/
+npm-debug.log*
+
+# dbt
+target/
+dbt_packages/
+logs/
+dbt/.user.yml
+
+# Mac/Windows System Files
+.DS_Store
+Thumbs.db
+
+# Editors/IDE
+.vs/
+*.code-workspace
+
+# Security & Credentials
+.env
+
+# Macros
+macros/
+
+# Local validation artifacts
+outputs/manifests/tableau_export_validation.json

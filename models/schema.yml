@@ -1,0 +1,114 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: opendota_liveops
+    tables:
+      - name: raw_matches
+      - name: raw_hero_stats
+      - name: raw_pro_matches
+
+models:
+  - name: stg_matches
+    columns:
+      - name: match_id
+        tests:
+          - not_null
+      - name: source_stream
+        tests:
+          - not_null
+      - name: recency_window
+        tests:
+          - not_null
+
+  - name: stg_hero_stats
+    columns:
+      - name: hero_id
+        tests:
+          - not_null
+      - name: hero_name
+        tests:
+          - not_null
+
+  - name: dim_heroes
+    columns:
+      - name: hero_id
+        tests:
+          - not_null
+          - unique
+
+  - name: fct_match
+    columns:
+      - name: match_id
+        tests:
+          - not_null
+          - unique
+      - name: recency_window
+        tests:
+          - not_null
+
+  - name: fct_player_match
+    columns:
+      - name: player_match_key
+        tests:
+          - not_null
+          - unique
+      - name: match_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('fct_match')
+                field: match_id
+      - name: hero_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_heroes')
+                field: hero_id
+
+  - name: mart_liveops_summary
+    columns:
+      - name: recency_window
+        tests:
+          - not_null
+          - unique
+          - accepted_values:
+              arguments:
+                values: ['2023_2024', '2025_2026']
+
+  - name: mart_hero_meta_shift
+    columns:
+      - name: hero_window_key
+        tests:
+          - not_null
+          - unique
+      - name: hero_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_heroes')
+                field: hero_id
+      - name: recency_window
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['2023_2024', '2025_2026']
+      - name: stability_segment
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['stable', 'watchlist', 'volatile']
+
+  - name: mart_returning_player_proxy
+    columns:
+      - name: recency_window
+        tests:
+          - not_null
+          - unique
+          - accepted_values:
+              arguments:
+                values: ['2023_2024', '2025_2026']

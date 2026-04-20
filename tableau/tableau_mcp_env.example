@@ -1,0 +1,8 @@
+# Copy these values into the environment used by the Tableau MCP server.
+# Left side = Tableau MCP variable name
+# Right side = repo-level .env variable to keep this project consistent
+
+SERVER=${TABLEAU_SERVER}
+SITE_NAME=${TABLEAU_SITE_NAME}
+PAT_NAME=${TABLEAU_PAT_NAME}
+PAT_VALUE=${TABLEAU_PAT_VALUE}

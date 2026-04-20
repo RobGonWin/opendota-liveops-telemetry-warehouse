@@ -1,0 +1,16 @@
+{
+  "selected_counts_by_window": {
+    "2023_2024": 300,
+    "2025_2026": 300
+  },
+  "target_counts_by_window": {
+    "2023_2024": 300,
+    "2025_2026": 300
+  },
+  "active_backfill_window": null,
+  "next_less_than_match_id": 8100099263,
+  "request_count": 215,
+  "oldest_page_start_time": 1735192090,
+  "newest_page_start_time": 1757606824,
+  "completed_all_targets": true
+}

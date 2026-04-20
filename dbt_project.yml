@@ -1,0 +1,22 @@
+name: opendota_liveops_warehouse
+version: "1.0.0"
+config-version: 2
+
+profile: opendota_liveops
+
+model-paths:
+  - models
+
+target-path: target
+clean-targets:
+  - target
+  - dbt_packages
+
+models:
+  opendota_liveops_warehouse:
+    staging:
+      +materialized: view
+    core:
+      +materialized: table
+    marts:
+      +materialized: table
